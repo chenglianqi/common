@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="24284289-7ffb-436a-8428-27903919d5f9" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/unipay/SecondCommit.java" afterDir="false" />
@@ -96,10 +114,10 @@
     </state>
     <state x="2682" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1625402244365" />
     <state x="762" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1625149298006" />
-    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1627266275166">
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1627310411337">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627266275166" />
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627310411337" />
     <state width="1877" height="231" key="GridCell.Tab.0.bottom" timestamp="1625404335658">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -128,5 +146,9 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2575" y="265" width="564" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1625401557882" />
+    <state x="790" y="310" key="svn.repositoryBrowser" timestamp="1627310385423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="310" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1627310385423" />
   </component>
 </project>
